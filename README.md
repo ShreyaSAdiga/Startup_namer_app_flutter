@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+A Flutter project which generates names for start ups.
 
 ## Getting Started
 
